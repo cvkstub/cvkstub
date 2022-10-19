@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cvkstub
--  This readme should be protected
+-  This readme file should be protected
 
 <!---
 cvkstub/cvkstub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
